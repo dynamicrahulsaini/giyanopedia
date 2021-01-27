@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Giyanopedia</string>
+    <string name="couldnt_laod">Could not load data</string>
+    <string name="decription">Article header image</string>
+</resources>
